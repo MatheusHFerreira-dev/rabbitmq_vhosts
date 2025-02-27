@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|d:\\backup\\!!estudos\\c#\\rabbitmq\\rabbitmqproject\\rabbitmq.vhostapplication\\workers\\eventprocessingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|solutionrelative:rabbitmq.vhostapplication\\workers\\eventprocessingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|d:\\backup\\!!estudos\\c#\\rabbitmq\\rabbitmqproject\\rabbitmq.vhostapplication\\workers\\eventdispatchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|solutionrelative:rabbitmq.vhostapplication\\workers\\eventdispatchworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|d:\\backup\\!!estudos\\c#\\rabbitmq\\rabbitmqproject\\rabbitmq.vhostapplication\\services\\rabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|solutionrelative:rabbitmq.vhostapplication\\services\\rabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|d:\\backup\\!!estudos\\c#\\rabbitmq\\rabbitmqproject\\rabbitmq.vhostapplication\\workers\\eventcreationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|solutionrelative:rabbitmq.vhostapplication\\workers\\eventcreationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|d:\\backup\\!!estudos\\c#\\rabbitmq\\rabbitmqproject\\rabbitmq.vhostapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC75222-9983-483A-87FD-C31D1675FB0A}|RabbitMq.VHostApplication\\RabbitMq.VHostApplication.csproj|solutionrelative:rabbitmq.vhostapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 382,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventProcessingWorker.cs",
+              "DocumentMoniker": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventProcessingWorker.cs",
+              "RelativeDocumentMoniker": "RabbitMq.VHostApplication\\Workers\\EventProcessingWorker.cs",
+              "ToolTip": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventProcessingWorker.cs",
+              "RelativeToolTip": "RabbitMq.VHostApplication\\Workers\\EventProcessingWorker.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:16:00.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDispatchWorker.cs",
+              "DocumentMoniker": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventDispatchWorker.cs",
+              "RelativeDocumentMoniker": "RabbitMq.VHostApplication\\Workers\\EventDispatchWorker.cs",
+              "ToolTip": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventDispatchWorker.cs",
+              "RelativeToolTip": "RabbitMq.VHostApplication\\Workers\\EventDispatchWorker.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:15:57.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventCreationWorker.cs",
+              "DocumentMoniker": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventCreationWorker.cs",
+              "RelativeDocumentMoniker": "RabbitMq.VHostApplication\\Workers\\EventCreationWorker.cs",
+              "ToolTip": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Workers\\EventCreationWorker.cs",
+              "RelativeToolTip": "RabbitMq.VHostApplication\\Workers\\EventCreationWorker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:15:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitService.cs",
+              "DocumentMoniker": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Services\\RabbitService.cs",
+              "RelativeDocumentMoniker": "RabbitMq.VHostApplication\\Services\\RabbitService.cs",
+              "ToolTip": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Services\\RabbitService.cs",
+              "RelativeToolTip": "RabbitMq.VHostApplication\\Services\\RabbitService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAawBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:00:28.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMq.VHostApplication\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\!!ESTUDOS\\C#\\RabbitMq\\RabbitMqProject\\RabbitMq.VHostApplication\\Program.cs",
+              "RelativeToolTip": "RabbitMq.VHostApplication\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAjwE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:33:02.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

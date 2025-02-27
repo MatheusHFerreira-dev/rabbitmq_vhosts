@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jHVTxlXW35cHGryHiLv1QtL4gudIMKNvBMBeldsRkl0=",
+  "Source": "RabbitMq.VHostApplication",
+  "BasePath": "_content/RabbitMq.VHostApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
